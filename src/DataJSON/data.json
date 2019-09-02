@@ -1,0 +1,88 @@
+{
+    "data": [
+      {
+        "roomTypeLabel": "Big",
+        "bedTypeLabel": "King",
+        "boardCodeDescription": [
+          "Choice of fresh Fruit Juice Or Cut Fruits",
+          "Choice of Cereals (Rice flakes",
+          "wheat flakes",
+          "Served with hot/cold milk"
+        ],
+        "price": 500
+      },
+      {
+        "roomTypeLabel": "Medium",
+        "bedTypeLabel": "Queen",
+        "boardCodeDescription": [
+          "Choice of fresh Fruit Juice Or Cut Fruits",
+          "Choice of Cereals (Rice flakes",
+          "wheat flakes",
+          "Served with hot/cold milk"
+        ],
+        "price": 500
+      },
+      {
+        "roomTypeLabel": "Small",
+        "bedTypeLabel": "Single",
+        "boardCodeDescription": [
+          "Choice of fresh Fruit Juice Or Cut Fruits",
+          "Choice of Cereals (Rice flakes",
+          "wheat flakes",
+          "Served with hot/cold milk"
+        ],
+        "price": 200
+      },
+      {
+        "roomTypeLabel": "Big",
+        "bedTypeLabel": "King",
+        "boardCodeDescription": [],
+        "price": 450
+      },
+      {
+        "roomTypeLabel": "Medium",
+        "bedTypeLabel": "Queen",
+        "boardCodeDescription": [],
+        "price": 350
+      },
+      {
+        "roomTypeLabel": "Small",
+        "bedTypeLabel": "Single",
+        "boardCodeDescription": [],
+        "price": 150
+      },
+      {
+        "roomTypeLabel": "Big",
+        "bedTypeLabel": "Standard King",
+        "boardCodeDescription": [
+          "Choice of fresh Fruit Juice Or Cut Fruits",
+          "Choice of Cereals (Rice flakes",
+          "wheat flakes",
+          "Served with hot/cold milk"
+        ],
+        "price": 480
+      },
+      {
+        "roomTypeLabel": "Medium",
+        "bedTypeLabel": "Full",
+        "boardCodeDescription": [
+          "Choice of fresh Fruit Juice Or Cut Fruits",
+          "Choice of Cereals (Rice flakes",
+          "wheat flakes",
+          "Served with hot/cold milk"
+        ],
+        "price": 380
+      },
+      {
+        "roomTypeLabel": "Small",
+        "bedTypeLabel": "Twim",
+        "boardCodeDescription": [
+          "Choice of fresh Fruit Juice Or Cut Fruits",
+          "Choice of Cereals (Rice flakes",
+          "wheat flakes",
+          "Served with hot/cold milk"
+        ],
+        "price": 180
+      }
+    ]
+  }
